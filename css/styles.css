@@ -14,3 +14,23 @@ header{
     line-height: 30px;
     font-family: 'Roboto', sans-serif;
 }
+
+header .list {
+    background-color: black;
+    display: inline-block;
+}
+
+header nav {
+    background-color: black;
+    display: inline-block
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+hr {
+    background-color: red;
+    padding: 2px;
+    border: 0;
+}
